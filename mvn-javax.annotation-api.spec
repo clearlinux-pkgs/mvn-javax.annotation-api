@@ -4,7 +4,7 @@
 #
 Name     : mvn-javax.annotation-api
 Version  : 1.2
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.jar
 Source0  : https://repo1.maven.org/maven2/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.jar
 Source1  : https://repo1.maven.org/maven2/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.pom
